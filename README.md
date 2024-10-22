@@ -1,4 +1,4 @@
-# Olá, eu sou João
+# Olá, eu me chamo João
 - 👨🏿‍🏫 Atualmente como estudante do senac-df
 - 🧑🏿‍💻 Trabalho com Figma
 - 📽️ Procuro colaborar no desenvolvimento de projetos
