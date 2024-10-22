@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou João
+- 👨🏿‍🏫 Atualmente como estudante do senac-df
+- 🧑🏿‍💻 Trabalho com Figma
+- 📽️ Procuro colaborar no desenvolvimento de projetos
+- 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
 
-<!--
-**JoaoVictorQueiroz/JoaoVictorQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div style="display: inline_block">
+  <br>
+  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Joao-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+   <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Joao-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+  </div>
+  
+  ##
+ <div> 
+ 
+  
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=DocenteDevRafael&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
